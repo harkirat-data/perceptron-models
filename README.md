@@ -152,36 +152,4 @@ This allowed visualization of the dataset along with the Perceptron's learned de
 
 ---
 
-## Learning Outcomes
 
-Through these two notebooks, I learned
-
-- Binary Classification
-- Perceptron Learning Algorithm
-- Weight and Bias Updates
-- Linear Decision Boundaries
-- Feature Scaling
-- Missing Value Handling
-- Model Evaluation
-- Principal Component Analysis (PCA)
-- High-Dimensional Geometry
-- Limitations of Linear Classifiers
-
----
-
-## Key Takeaways
-
-- Perceptron performs well when classes are linearly separable.
-- As dimensionality increases, visualization becomes difficult.
-- PCA helps project high-dimensional data into 2D for better geometric understanding.
-- Real-world datasets are often not perfectly linearly separable, highlighting one of the limitations of the Perceptron algorithm.
-
----
-
-## Future Work
-
-- Logistic Regression
-- Support Vector Machines (SVM)
-- Kernel Methods
-- Multi-Layer Perceptron (MLP)
-- Neural Networks
